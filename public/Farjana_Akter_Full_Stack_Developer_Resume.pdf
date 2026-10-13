@@ -1,0 +1,229 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8095 >>
+stream
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 18 Tf 40 756 Td (FARJANA AKTER ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 11 Tf 40 740 Td (Full Stack Developer ) Tj ET
+0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+BT /F1 9 Tf 40 726 Td (Dhaka, Bangladesh  |  +8801749600538  |  farjanapinky350@gmail.com ) Tj ET
+0.008 0.518 0.780 rg
+0.008 0.518 0.780 RG
+BT /F2 8.5 Tf 40 714 Td (LinkedIn: linkedin.com/in/farjana-akter-dev  |  GitHub: github.com/farjuu333 ) Tj ET
+0.024 0.714 0.831 rg
+0.024 0.714 0.831 RG
+1 w
+40 706 m 572 706 l S
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 10 Tf 40 693 Td (CAREER OBJECTIVE ) Tj ET
+0.886 0.910 0.941 rg
+0.886 0.910 0.941 RG
+0.5 w
+40 690 m 572 690 l S
+0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+BT /F1 8.5 Tf 40 681 Td (Adaptable Full Stack Developer experienced in building end-to-end web apps with React, Next.js, Node.js, ) Tj ET
+BT /F1 8.5 Tf 40 670.5 Td (Express, MongoDB, and PostgreSQL. Skilled in responsive UIs, Prisma ORM, secure REST APIs, and ) Tj ET
+BT /F1 8.5 Tf 40 660 Td (authentication. Adept at using AI tools for faster debugging and clean code delivery. ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 10 Tf 40 645.5 Td (SKILLS ) Tj ET
+0.886 0.910 0.941 rg
+0.886 0.910 0.941 RG
+0.5 w
+40 642.5 m 572 642.5 l S
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 633.5 Td (Frontend: ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf ( HTML5, CSS3, JavaScript ES6+, TypeScript, React.js, Next.js, Context API, DOM Manipulation ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 623 Td (UI / Styling: ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf ( Tailwind CSS, HeroUI, DaisyUI, Framer Motion, SwiperJS, Responsive Web Design, Dark-Theme ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 612.5 Td (Backend: ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf ( Node.js, Express.js, MongoDB Atlas, REST API, PostgreSQL, Prisma CRUD Operations ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 602 Td (Forms / Auth: ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf ( Better Auth, Google OAuth, JWT Security Verification, Protected Routes, React Toastify ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 591.5 Td (Tools & Deploy: ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf ( Git, GitHub, Vercel, Postman, Chrome DevTools, Figma-to-code, VS Code, npm ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 581 Td (AI Workflow: ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf ( ChatGPT, Gemini, Prompt Engineering, AI-assisted debugging, clean code refactoring, Claude ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 10 Tf 40 566.5 Td (PROJECTS ) Tj ET
+0.886 0.910 0.941 rg
+0.886 0.910 0.941 RG
+0.5 w
+40 563.5 m 572 563.5 l S
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 9 Tf 40 554.5 Td (Fable  Digital Ebook Publishing & Reading Platform ) Tj 0.008 0.518 0.780 rg
+0.008 0.518 0.780 RG
+/F2 8.5 Tf (  Live | Frontend | Backend ) Tj ET
+0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+BT /F1 8 Tf 40 544.5 Td (A digital ebook publishing and reading platform with role-based dashboards, multi-layered search, and Stripe ) Tj ET
+BT /F1 8 Tf 40 535 Td (payment integration. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 525.5 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Built dynamic dashboards using Next.js & Recharts, cutting task time from 15m to 5m. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 516 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Designed a multi-layered search system with MongoDB handling 100+ listings daily. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 506.5 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Implemented Stripe checkout with Tailwind CSS, reducing payment drops by 35%. ) Tj ET
+0.118 0.161 0.231 rg
+0.118 0.161 0.231 RG
+BT /F2 7.5 Tf 44 497 Td (Tech Stack: Next.js, Tailwind CSS, MongoDB, React Hook, ImgBB, Stripe.js, BetterAuth, Recharts, Framer Motion ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 9 Tf 40 490 Td (DocAppoint  Doctor Appointment Manager ) Tj 0.008 0.518 0.780 rg
+0.008 0.518 0.780 RG
+/F2 8.5 Tf (  Live | Frontend | Backend ) Tj ET
+0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+BT /F1 8 Tf 40 480 Td (A doctor appointment booking platform featuring Google OAuth authentication, real-time booking management, and ) Tj ET
+BT /F1 8 Tf 40 470.5 Td (dynamic specialist search filters. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 461 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Built Google OAuth authentication with BetterAuth, cutting sign-in time from 10s to 6s. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 451.5 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Designed and shipped a real-time booking system that handles 50+ concurrent requests per minute. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 442 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Implemented dynamic specialist discovery filters using Next.js, cutting doctor selection search time by 25%. ) Tj ET
+0.118 0.161 0.231 rg
+0.118 0.161 0.231 RG
+BT /F2 7.5 Tf 44 432.5 Td (Tech Stack: Next.js, MongoDB, Better Auth, Tailwind CSS, REST API ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 9 Tf 40 425.5 Td (SkillSphere  Online Learning Platform ) Tj 0.008 0.518 0.780 rg
+0.008 0.518 0.780 RG
+/F2 8.5 Tf (  Live | GitHub ) Tj ET
+0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+BT /F1 8 Tf 40 415.5 Td (An online learning platform with protected route navigation, multi-tiered course contents, and interactive ) Tj ET
+BT /F1 8 Tf 40 406 Td (Framer Motion animations. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 396.5 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Built route guards with Next.js & Better Auth, cutting unauthorized access to 0%. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 387 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Designed nested course navigation with Next.js handling 500+ requests daily. ) Tj ET
+0.055 0.455 0.565 rg
+0.055 0.455 0.565 RG
+BT /F2 8 Tf 44 377.5 Td (*  ) Tj 0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+/F1 8 Tf (Implemented Framer Motion animations, reducing navigation drop-off by 20%. ) Tj ET
+0.118 0.161 0.231 rg
+0.118 0.161 0.231 RG
+BT /F2 7.5 Tf 44 368 Td (Tech Stack: React.js, Next.js, MongoDB, Better Auth, Framer Motion, SwiperJS, React ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 10 Tf 40 363 Td (EDUCATION ) Tj ET
+0.886 0.910 0.941 rg
+0.886 0.910 0.941 RG
+0.5 w
+40 360 m 572 360 l S
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 351 Td (B.Sc. in Computer Science and Engineering ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf (  Institute of Science and Technology \(IST\) | Expected 2027 ) Tj ET
+0.392 0.455 0.545 rg
+0.392 0.455 0.545 RG
+BT /F1 7.5 Tf 40 341 Td (Relevant Coursework: Web Development, Database Management Systems \(DBMS\), Software Engineering, Data Structures & Algorithms, OOP, Computer Networking ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 10 Tf 40 334 Td (COURSES, TRAINING & CERTIFICATIONS ) Tj ET
+0.886 0.910 0.941 rg
+0.886 0.910 0.941 RG
+0.5 w
+40 331 m 572 331 l S
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 8.5 Tf 40 322 Td (Complete Web Development Course ) Tj 0.278 0.333 0.412 rg
+0.278 0.333 0.412 RG
+/F1 8.5 Tf (  Programming Hero \(2026\) ) Tj ET
+0.008 0.518 0.780 rg
+0.008 0.518 0.780 RG
+BT /F1 7.5 Tf 40 312 Td (Verify Certificate: drive.google.com/file/d/1-Q_vY_krib8QTPXKn9E8KztSkOBu0dcF/view ) Tj ET
+0.059 0.090 0.165 rg
+0.059 0.090 0.165 RG
+BT /F2 10 Tf 40 305 Td (LANGUAGES ) Tj ET
+0.886 0.910 0.941 rg
+0.886 0.910 0.941 RG
+0.5 w
+40 302 m 572 302 l S
+0.200 0.255 0.333 rg
+0.200 0.255 0.333 RG
+BT /F1 8.5 Tf 40 293 Td (English \(Professional\)  |  Bangla \(Native\)  |  Hindi \(Basic\) ) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000008398 00000 n 
+0000008468 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+8543
+%%EOF
